@@ -4,7 +4,7 @@ title: '我的澳洲维州190和加国萨省下签过程------好事成双，写
 date: 2017-01-22 14:00:00 +0800
 author: jiajihong 
 categories: [flyabroad]
-tags: [客户评价, 萨省]
+tags: [客户评价, 澳洲]
 bbsid: 21305
 ---
 

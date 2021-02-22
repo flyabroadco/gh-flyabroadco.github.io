@@ -8,11 +8,11 @@ else
 	desc="$1"
 fi
 
-git pull origin main
+git pull origin main:main
 JEKYLL_ENV=production bundle exec jekyll b
 git add . && \
 git add -u && \
 git commit -m "$desc" && \
-git push -u "origin" main
+git push -u "origin" main:main
 
 cd _site && sh pushit "build-new-flyco"
